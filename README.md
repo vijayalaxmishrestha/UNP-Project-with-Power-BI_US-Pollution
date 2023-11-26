@@ -6,4 +6,4 @@ During my capstone project 1 with Power BI during my internship at the United Ne
 2)Greatly supported in the development of user-friendly interfaces and data visualization.
 3)Using the US Pollution dataset, I examined the Air Quality Index (AQI) for various pollutants, including NO2, CO, O3, and SO2.
 PBIX File Link:https://drive.google.com/file/d/13QkSvHm0MFMq9_XxlpzBriE-tWsN9yb7/view?usp=sharing
-PPT Link: https://drive.google.com/file/d/1g3JIl0nElZ-ceZGumComVR5QU8jDXQsd/view?usp=drive_link
+

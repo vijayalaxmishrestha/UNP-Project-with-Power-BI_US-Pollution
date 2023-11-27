@@ -10,7 +10,7 @@ Completed my capstone project 1 with Power BI during my internship at the United
 - Created a stacked bar chart displaying Average CO, NO2, O3, and SO2 AQI by State.
 - Applied Trends and Forecast analysis for 5-year pollutant trends.
 - Analyzed peak pollution trends over the years for each pollutant, offering comprehensive insights into air quality patterns and trends.
-5.Greatly supported in the development of user-friendly interfaces and data visualization.
+5. Greatly supported in the development of user-friendly interfaces and data visualization.
 
 PBIX File Link:https://drive.google.com/file/d/13QkSvHm0MFMq9_XxlpzBriE-tWsN9yb7/view?usp=sharing
 PDF File Link: https://drive.google.com/file/d/1LWul3jAvaalylQVpMnL1Kr1kXJonarM7/view?usp=sharing
